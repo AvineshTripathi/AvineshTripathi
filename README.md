@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 </a>
 
 
-<a href="https://app.daily.dev/AvineshTripathi"><img src="https://api.daily.dev/devcards/cb971958d1594bd9bebe9f4540ba1b97.png?r=ldz" width="400" alt="Avinesh Tripathi's Dev Card"/></a>
+
